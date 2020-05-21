@@ -1,2 +1,0 @@
-# Qterminal
-QT Terminal
