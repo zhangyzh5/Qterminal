@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/reload.png</file>
+        <file>images/ftp_disconnect24_h.bmp</file>
+        <file>images/Redo.png</file>
+        <file>images/Refresh.png</file>
+        <file>images/Stop playing.ico</file>
+        <file>images/import.png</file>
+        <file>images/NavigateForward.ico</file>
+        <file>images/Splash.png</file>
+        <file>images/myIcon3.ico</file>
+    </qresource>
+</RCC>

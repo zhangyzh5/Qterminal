@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SelProtocolDialog</class>
+ <widget class="QDialog" name="SelProtocolDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>259</width>
+    <height>325</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>GE Inspira Small Caps</family>
+    <pointsize>10</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Select Protocol</string>
+  </property>
+  <widget class="QListWidget" name="listWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>241</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>PPC HNZ</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>DNP Serial</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>DNP LAN/WAN</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Modbus RTU</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Modbus ASCII</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Modbus TCP</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>IEC60870-5-101</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>IEC60870-5-103</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>IEC60870-5-104</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>CDC Type II</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>PG&amp;E</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>SC1801 Ver6.0</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Tejas 5, 2-byte addressing</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Valmet Series 5(Tejas 5)</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
